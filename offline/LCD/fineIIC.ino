@@ -1,6 +1,5 @@
 // I2C Scanner
-// Written by Nick Gammon
-// Date: 20th April 2011
+//https://app.cirkitdesigner.com/project/70de9d95-cdf1-425d-9a3d-c9d2c5cf03d7
 
 #include <Wire.h>
 void setup() {
